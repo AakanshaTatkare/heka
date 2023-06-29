@@ -1,0 +1,135 @@
+.about-us-main-container{
+    margin: 20px auto 50px;
+    display: block;
+    width: 80%;
+}
+.about-us-main-container h1,h2{
+    text-align: center;
+   color: #285142;
+}
+.ab1-container {
+   
+   position: absolute;  
+     /* top: 700px;  */
+    left: 200px; /* Adjust the left positioning as per your requirement */
+  } 
+  
+  .ab1-circle {
+    width: 300px; /* Adjust the width of the circle as per your requirement */
+    height: 300px; /* Adjust the height of the circle as per your requirement */
+    border-radius: 50%;
+    border-color: rgb(220, 202, 131);
+    background-color: #fefefe; /* Adjust the background color of the circle */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .ab1-circle img {
+    width: 70%; /* Adjust the size of the logo image as per your requirement */
+    height: auto;
+  }
+  
+
+
+  .ab2-container {
+   
+    position: absolute; 
+       
+      left: 500px; /* Adjust the left positioning as per your requirement */
+    } 
+    
+    .ab2-circle {
+      width: 300px; /* Adjust the width of the circle as per your requirement */
+      height: 300px; /* Adjust the height of the circle as per your requirement */
+      border-radius: 50%;
+      border-color: rgb(220, 202, 131);
+      background-color: #fefefe; /* Adjust the background color of the circle */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .ab2-circle img {
+      width: 70%; /* Adjust the size of the logo image as per your requirement */
+      height: auto;
+    }
+    
+  
+    .ab3-container {
+   
+        position: absolute; 
+          left: 800px; /* Adjust the left positioning as per your requirement */
+        } 
+        
+        .ab3-circle {
+          width: 300px; /* Adjust the width of the circle as per your requirement */
+          height: 300px; /* Adjust the height of the circle as per your requirement */
+          border-radius: 50%;
+          border-color: rgb(220, 202, 131);
+          background-color: #fefefe; /* Adjust the background color of the circle */
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+        
+        .ab3-circle img {
+          width: 70%; /* Adjust the size of the logo image as per your requirement */
+          height: auto;
+        }
+
+        .ab4-container {
+   
+            position: absolute; 
+              left: 1100px; /* Adjust the left positioning as per your requirement */
+            } 
+            
+            .ab4-circle {
+              width: 300px; /* Adjust the width of the circle as per your requirement */
+              height: 300px; /* Adjust the height of the circle as per your requirement */
+              border-radius: 50%;
+              border-color: rgb(220, 202, 131);
+              background-color: #fefefe; /* Adjust the background color of the circle */
+              display: flex;
+              align-items: center;
+              justify-content: center;
+            }
+            
+            .ab4-circle img {
+              width: 70%; /* Adjust the size of the logo image as per your requirement */
+              height: auto;
+            }
+        
+            .para {
+                margin:75px ;            
+                font-size: 17px;
+                font-weight: 500;
+            }
+
+            .imgwhy{
+                background-color: #1e6b4e;
+            }
+
+            .img1{
+                padding: 50px;
+            }
+            .img2{
+                padding-top: 50px;
+                margin-left: 800px;
+            }
+
+
+            /* contactus*/
+            .contactform{
+              margin-left: 680px;
+            }
+            button {
+              margin-left: 80px;
+              background-color: #1e6b4e;
+              color: white;
+              width: 90px;
+              height: 40px;
+              font-weight: 500;
+              shape-margin: 5px;
+              
+            }
