@@ -1,0 +1,154 @@
+ .main{
+    position: relative;
+    top: -40px;
+    margin-left: 100px;
+     
+ }
+ .card{
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    width: 210px;
+    border-radius: 15px;
+    padding: 0px;
+    transition: transform 1s ease;
+
+ }
+ .card:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+ .text{
+    font-size: 13px;
+    padding: 3px;
+    text-align: center;
+ }
+ .personal h1{
+    font-size: 30px;
+    position: relative;
+    top: -450px;
+    color: #3f6b68;
+    padding-left: 50px;
+ }
+/* .img1-container{
+    position: relative;
+    top: 50px;
+
+}
+.img2-container{
+    position: relative;
+    top:-140px;
+
+}
+.img3-container{
+    position: relative;
+    top: 50px;
+
+} */
+.part2{
+    position: absolute;
+    top: 220px;  
+    margin-left: 100px;  
+    align-items: center;
+}
+    
+
+.text1{
+    text-align: center;
+    color: #212529;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.img1-circle {
+    width: 140px;
+    height: 140px;
+    margin-left: 25px;
+}
+.img2-circle {
+    width: 140px;
+    height: 140px;
+    margin-left: 25px;
+}
+.img3-circle {
+    width: 140px;
+    height: 140px;
+    margin-left: 25px;
+}
+.container{
+    position: relative;
+    top: 400px;
+}
+.carousel1{
+    position: absolute;
+    top: 400px;
+}
+.partner{
+    position: absolute;
+    top: 2750px;
+}
+.svgpart{
+    position: relative;
+    top: 540px;
+}
+.download1{
+    position: relative;
+    top: 600px;
+    left: 110px;
+    font-size: 23px;
+}
+.cards{
+    gap: 200px;
+}
+.downcard{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 600px;
+    right: -200px;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 17px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+}
+.downcard1{
+    width: 400px;
+    height: 200px;
+    position: relative;
+    top: 600px;
+    right: -400px;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 50px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+}
+.input{
+    border-color: black;
+    border-width: 1px;
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+}
+.buttonn{
+    background-color: #3F6B68;
+    position: relative;
+    border-radius: 5px;
+    height: 30px;
+    left: -75px;
+}
+.imgcard{
+    position: relative;
+    right: -110px;
+    top: -20px;
+    
+}
+
+.vertical-line {
+    width: 4px;
+    height: 30%;
+    background-color: rgb(121, 119, 119);
+    position: absolute;
+    top: 3150px;
+    right: 870px; /* Adjust this value to align the line properly */
+  }
+  
+  .or-text {
+    margin: 0 10px; /* Adjust this value to set the spacing around the "or" text */
+  }
